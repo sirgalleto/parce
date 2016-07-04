@@ -1,0 +1,16 @@
+{
+  "name": "parce",
+  "version": "1.0.0",
+  "description": "Colombian library helper to manage process in Parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Parse",
+    "Parce",
+    "Colombian"
+  ],
+  "author": "Sebastián Osorio <sir@galleto.xyz>",
+  "license": "ISC"
+}
